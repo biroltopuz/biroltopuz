@@ -1,8 +1,7 @@
-### Hi there 👋
-My name is Birol Topuz. 
+### Hello 👋
+My name is Birol Topuz.
 
-I'm working on the DBHSOFT SGO Matrix project (Esgo, Voyage, NorthStar, etc. the others are the project name). This technology is used by the leading companies of Turkey and the world with its "online and offline sales capability". I am also proud to have completed 15 Years as a core team member.
+I am working on the DBHSoft SGO Matrix project (with project names such as Esgo, Voyage, NorthStar). This technology is used by leading companies in Turkey and around the world for its "online and offline sales capability." I am proud to have completed 17 years as a core team member.
 
-- 🔭 I’m currently working SGO Matrix project.
-- 🌱 I’m currently learning Python.
-- 📖 I’m researching to Machine Learning.
+- 🌱 Currently, I am researching Python and GO languages.
+- 📖 I am interested in Machine Learning.
